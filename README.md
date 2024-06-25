@@ -1,6 +1,6 @@
 # dictnv-icp-exercise
 
-John Patrick Dulin
+John Patrick A Dulin
 Cagayan
 Male 
 June 25
